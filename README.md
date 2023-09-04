@@ -27,3 +27,6 @@ Added a list of options for all the Translate APIs/Engines . users can now enter
 
 <img width="712" alt="255776022-5844cc6f-187b-409c-a0cc-ac006857637c" src="https://github.com/laithse1/Translation-APIs/assets/14221893/e0615a85-f734-4001-a423-309b71a9af42">
 
+![258618029-fd5f30e2-ba58-4ed3-b585-30fbc763e6ba](https://github.com/laithse1/Translation-APIs/assets/14221893/44783c02-e2fc-4e4e-b1f6-6d2030cc04e8)
+
+
