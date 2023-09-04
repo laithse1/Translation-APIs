@@ -83,7 +83,7 @@ slideOption = int(layoutInput)
 #print("input: ", inp)
 
 """ DeepL API integration"""
-auth_key = "6bd0d1df-69ed-1ff3-374c-bc280b44f5e0:fx"  # (auth_key) Replace with your key
+auth_key = "6bd0d1df-69ed-1ff3-374c-*******************"  # (auth_key) Replace with your key
 translator = deepl.Translator(auth_key)
 
 # DeepL API testing
@@ -406,7 +406,7 @@ def buildPresentation():
 
 # MS-Azure API
 def translate_text_Azure(text, source_language, target_language):
-    azure_subscription_key = "9f3df45b03754a2a827bb889aa2d571d"
+    azure_subscription_key = "9f3df45b03754a2************" # replace with your key
     azure_endpoint = "https://api.cognitive.microsofttranslator.com/"
 
     headers = {
@@ -442,7 +442,7 @@ def GoogleTranslator2(printFact, dest_language):
 
 
 # Function to translate text using ChatGPT API
-APIKey = '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' # replace with your key
+APIKey = 'sk-r6WS4k99p0z3CUMAuAaLT3BlbkFJ*****************' # replace with your key
 
 openai.api_key = APIKey
 
